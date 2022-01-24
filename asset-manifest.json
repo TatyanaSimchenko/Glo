@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Glo/static/css/main.5f41aeb3.css",
+    "main.js": "/Glo/static/js/main.23217238.js",
+    "index.html": "/Glo/index.html",
+    "main.5f41aeb3.css.map": "/Glo/static/css/main.5f41aeb3.css.map",
+    "main.23217238.js.map": "/Glo/static/js/main.23217238.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f41aeb3.css",
+    "static/js/main.23217238.js"
+  ]
+}
